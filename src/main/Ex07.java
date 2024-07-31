@@ -3,7 +3,7 @@ package main;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class Ex7 {
+public class Ex07 {
 
 	public static void main(String[] args) throws IOException {
 

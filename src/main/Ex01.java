@@ -2,7 +2,7 @@ package main;
 
 import java.io.IOException;
 
-public class Ex1 {
+public class Ex01 {
 
 	public static void main(String[] args) {
 

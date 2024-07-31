@@ -2,7 +2,7 @@ package main;
 
 import java.io.FileInputStream;
 
-public class Ex5 {
+public class Ex05 {
 
 	public static void main(String[] args) {
 
@@ -20,7 +20,7 @@ public class Ex5 {
 				break;
 			}
 			//읽어들인 크기만큼 배열요소를 출력
-			for(int i=0; i < size; i++) {
+			for(int i=0; i<size; i++) {
 				System.out.println((char) arr[i]);
 			}
 			
